@@ -82,4 +82,4 @@ Android的设备五花八门，已测试以下功能和机型，欢迎大家提i
 
 # ⭐ star历史
 
-![Star History Chart](https://api.star-history.com/svg?repos=JonaNorman/WebViewUpgrade&type=Date)
+![Star History Chart](https://star-history.dera.page/svg?repos=JonaNorman/WebViewUpgrade&type=Date)

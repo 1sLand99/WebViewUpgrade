@@ -83,4 +83,4 @@ Only a **single, full (monolithic) Chrome APK** can be used as the kernel source
 
 # ⭐ Star History
 
-![Star History Chart](https://api.star-history.com/svg?repos=JonaNorman/WebViewUpgrade&type=Date)
+![Star History Chart](https://star-history.dera.page/svg?repos=JonaNorman/WebViewUpgrade&type=Date)
